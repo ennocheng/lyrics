@@ -18,26 +18,42 @@ layout: default
 <div class="song-block" id="song{{ forloop.index }}">
   <div class="song-title">{{ forloop.index }}. {{ song.title }}</div>
   <div class="song-meta">{% if song.lyricist %}詞：{{ song.lyricist }}<br>{% endif %}曲：{{ song.composer }}</div>
-{% if song.lyricist %}
+
+{% assign language_map = 
+  "ta:台文（原文）,
+   tl:台文（羅馬字）,
+   zh:中文,
+   en:English,
+   jp:日本語,
+   kr:한국어" | split: "," %}
+
+{% assign languages = "" | split: "" %}
+{% for entry in language_map %}
+  {% assign parts = entry | split: ":" %}
+  {% assign code = parts[0] | strip %}
+  {% if song.lyrics[code] %}
+    {% assign languages = languages | push: code %}
+  {% endif %}
+{% endfor %}
+
+{% if languages.size > 1 %}
   <div class="lang-tabs">
-    {% if song.lyrics.ta %}
-      <button onclick="toggleLang('ta{{ forloop.index }}')" {% if song.default_language == 'ta' %}class="active"{% endif %} id="btn-ta{{ forloop.index }}">台文（原文）</button>
-    {% endif %}
-    {% if song.lyrics.tl %}
-      <button onclick="toggleLang('tl{{ forloop.index }}')" {% if song.default_language == 'tl' %}class="active"{% endif %} id="btn-tl{{ forloop.index }}">台文（羅馬字）</button>
-    {% endif %}
-    {% if song.lyrics.zh %}
-      <button onclick="toggleLang('zh{{ forloop.index }}')" {% if song.default_language == 'zh' %}class="active"{% endif %} id="btn-zh{{ forloop.index }}">中文</button>
-    {% endif %}
-    {% if song.lyrics.en %}
-      <button onclick="toggleLang('en{{ forloop.index }}')" {% if song.default_language == 'en' %}class="active"{% endif %} id="btn-en{{ forloop.index }}">English</button>
-    {% endif %}
-    {% if song.lyrics.jp %}
-      <button onclick="toggleLang('jp{{ forloop.index }}')" {% if song.default_language == 'jp' %}class="active"{% endif %} id="btn-jp{{ forloop.index }}">日本語</button>
-    {% endif %}
-    {% if song.lyrics.kr %}
-      <button onclick="toggleLang('kr{{ forloop.index }}')" {% if song.default_language == 'kr' %}class="active"{% endif %} id="btn-kr{{ forloop.index }}">한국어</button>
-    {% endif %}
+    {% for code in languages %}
+      {% assign label = "" %}
+      {% for entry in language_map %}
+        {% assign parts = entry | split: ":" %}
+        {% assign map_code = parts[0] | strip %}
+        {% assign map_label = parts[1] | strip %}
+        {% if map_code == code %}
+          {% assign label = map_label %}
+        {% endif %}
+      {% endfor %}
+      <button onclick="toggleLang('{{ code }}{{ forloop.parentloop.index }}')"
+              {% if song.default_language == code %}class="active"{% endif %}
+              id="btn-{{ code }}{{ forloop.parentloop.index }}">
+        {{ label }}
+      </button>
+    {% endfor %}
   </div>
 {% endif %}
 
