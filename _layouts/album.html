@@ -5,9 +5,6 @@ layout: default
   {% include back-link.html %}
   <h1 class="page-title">{{ page.title }}</h1>
 <style>
-.lyrics-block {
-  line-height: 0.8;
-}
 .song-nav {
   display: flex;
   flex-wrap: wrap; 
@@ -87,6 +84,7 @@ layout: default
   }
 
   .lyrics-block {
+    line-height: 0.8;
     flex-grow: 1;
     flex-basis: 0;
     padding: 1.2em;
@@ -136,6 +134,9 @@ function toggleLang(langId) {
     {% if song.lyrics.ta %}
       <button onclick="toggleLang('ta{{ forloop.index }}')" {% if song.default_language == 'ta' %}class="active"{% endif %} id="btn-ta{{ forloop.index }}">台文（漢字）</button>
     {% endif %}
+    {% if song.lyrics.tl %}
+      <button onclick="toggleLang('tl{{ forloop.index }}')" {% if song.default_language == 'tl' %}class="active"{% endif %} id="btn-tl{{ forloop.index }}">台文（羅馬字）</button>
+    {% endif %}
     {% if song.lyrics.zh %}
       <button onclick="toggleLang('zh{{ forloop.index }}')" {% if song.default_language == 'zh' %}class="active"{% endif %} id="btn-zh{{ forloop.index }}">中文</button>
     {% endif %}
@@ -145,11 +146,17 @@ function toggleLang(langId) {
     {% if song.lyrics.jp %}
       <button onclick="toggleLang('jp{{ forloop.index }}')" {% if song.default_language == 'jp' %}class="active"{% endif %} id="btn-jp{{ forloop.index }}">日本語</button>
     {% endif %}
+    {% if song.lyrics.kr %}
+      <button onclick="toggleLang('kr{{ forloop.index }}')" {% if song.default_language == 'kr' %}class="active"{% endif %} id="btn-kr{{ forloop.index }}">한국어</button>
+    {% endif %}
   </div>
 
   <div class="lyrics-wrapper">
     {% if song.lyrics.ta %}
       <div id="lyrics-ta{{ forloop.index }}" class="lyrics-block {% if song.default_language == 'ta' %}active{% endif %}">{{ song.lyrics.ta | newline_to_br }}</div>
+    {% endif %}
+    {% if song.lyrics.tl %}
+      <div id="lyrics-tl{{ forloop.index }}" class="lyrics-block {% if song.default_language == 'tl' %}active{% endif %}">{{ song.lyrics.tl | newline_to_br }}</div>
     {% endif %}
     {% if song.lyrics.zh %}
       <div id="lyrics-zh{{ forloop.index }}" class="lyrics-block {% if song.default_language == 'zh' %}active{% endif %}">{{ song.lyrics.zh | newline_to_br }}</div>
@@ -159,6 +166,9 @@ function toggleLang(langId) {
     {% endif %}
     {% if song.lyrics.jp %}
       <div id="lyrics-jp{{ forloop.index }}" class="lyrics-block" {% if song.default_language == 'jp' %}active{% endif %}>{{ song.lyrics.jp | newline_to_br }}</div>
+    {% endif %}
+    {% if song.lyrics.kr %}
+      <div id="lyrics-kr{{ forloop.index }}" class="lyrics-block" {% if song.default_language == 'kr' %}active{% endif %}>{{ song.lyrics.kr | newline_to_br }}</div>
     {% endif %}
   </div>
 </div>
