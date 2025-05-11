@@ -142,7 +142,7 @@ function toggleLang(langId) {
 {% if song.lyricist %}
   <div class="lang-tabs">
     {% if song.lyrics.ta %}
-      <button onclick="toggleLang('ta{{ forloop.index }}')" {% if song.default_language == 'ta' %}class="active"{% endif %} id="btn-ta{{ forloop.index }}">台文（漢字）</button>
+      <button onclick="toggleLang('ta{{ forloop.index }}')" {% if song.default_language == 'ta' %}class="active"{% endif %} id="btn-ta{{ forloop.index }}">台文（原文）</button>
     {% endif %}
     {% if song.lyrics.tl %}
       <button onclick="toggleLang('tl{{ forloop.index }}')" {% if song.default_language == 'tl' %}class="active"{% endif %} id="btn-tl{{ forloop.index }}">台文（羅馬字）</button>
