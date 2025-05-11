@@ -9,7 +9,7 @@ title: 專輯一覽
 <div class="content">
 <h1>專輯一覽</h1>
 <ul class="album-list">
-  {% assign album_pages = site.pages | where: "layout", "album" %}
+  {% assign album_pages = site.albums | where: "layout", "album" %}
   {% assign sorted_album_pages = album_pages | sort: "sidebar_sort_order" | reverse %}
   {% for page in sorted_album_pages %}
     {% assign album = site.data.albums[page.album_data] %}

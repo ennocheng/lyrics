@@ -57,4 +57,7 @@ theme: jekyll-theme-hydeout
 #  load_paths:
 #    - _sass
 #  implementation: sass-embedded
-
+collections:
+  albums:
+    output: true
+    permalink: /:name/
