@@ -293,9 +293,9 @@ songs:
   - title: 去你的旅程
     lyricist: 鄭宜農
     composer: 鄭宜農
-    default_language: ta
+    default_language: zh
     lyrics:
-      ta: |
+      zh: |
         我一直在想辦法
         去掉你 去掉你
         反正你什麼也看不起
