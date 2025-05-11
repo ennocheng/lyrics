@@ -19,9 +19,9 @@ html {
   font-size: variables.$root-font-size;
   line-height: variables.$root-line-height;
 
-  @media (min-width: variables.$large-breakpoint) {
-    font-size: variables.$large-font-size;
-  }
+  //@media (min-width: variables.$large-breakpoint) {
+  //  font-size: variables.$large-font-size;
+  //}
 }
 
 body {

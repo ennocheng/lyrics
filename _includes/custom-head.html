@@ -1,1 +1,126 @@
 <!-- Additional head bits without overriding original head -->
+<style>
+  .song-title {
+    font-size: 1.25rem;
+  }
+
+  .song-block {
+    scroll-margin-left: 4rem;
+  }
+
+  .song-nav {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 0.5em;
+    padding: 0.5em 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+    align-items: center; 
+  }
+  
+  .song-nav a {
+    display: inline-block;
+    padding: 0.4em 0.8em;
+    font-size: 0.9em;
+    background: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 0.4em;
+    color: #333;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.3s;
+  }
+  
+  .song-nav a:hover {
+    background: #ddd;
+  }
+
+  .lang-tabs {
+    margin: 1em 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+  }
+
+  .lang-tabs button {
+    height: 46px;
+    padding: 0.5em 1.2em;
+    margin-right: 8px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+    color: #333;
+    cursor: pointer;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+  }
+
+  .lang-tabs button:hover {
+    background-color: #e0e0e0;
+    transform: scale(1.05);
+  }
+
+  .lang-tabs button.active {
+    background-color: #333; /* 深灰色背景 */
+    color: white;
+    transform: scale(1.05);
+  }
+
+  .song-info {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 1em;
+    color: #333;
+  }
+
+  .song-info .title {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+
+  .song-info .credits {
+    margin-top: 0.5em;
+  }
+
+  .lyrics-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 1.5em;
+    margin-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  .lyrics-block {
+    line-height: 0.8;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    padding: 1.2em;
+    border: 1px solid #ddd;
+    display: none;
+    white-space: pre-line;
+    background: #f9f9f9;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .lyrics-block.active {
+    display: block;
+  }
+
+  .separator {
+    margin: 2em 0;
+    border-top: 2px solid #ddd;
+    width: 100%;
+  }
+</style>
+<script>
+function toggleLang(langId) {
+  const btn = document.getElementById(`btn-${langId}`);
+  const block = document.getElementById(`lyrics-${langId}`);
+  const isActive = btn.classList.contains('active');
+  btn.classList.toggle('active', !isActive);
+  block.classList.toggle('active', !isActive);
+}
+</script>
