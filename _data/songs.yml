@@ -1,0 +1,118 @@
+- title: 青空
+  lyrics_by: 作詞者1
+  music_by: 作曲者1
+  default_language: en
+  lyrics:
+    zh: |
+      這是第 1 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 1.
+
+- title: 海邊午後
+  lyrics_by: 作詞者2
+  music_by: 作曲者2
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 2 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 2.
+    jp: |
+      これは第2番目の日本語の歌詞です。
+
+- title: 月光旅人
+  lyrics_by: 作詞者3
+  music_by: 作曲者3
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 3 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 3.
+    jp: |
+      これは第3番目の日本語の歌詞です。
+
+- title: 流星的記憶
+  lyrics_by: 作詞者4
+  music_by: 作曲者4
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 4 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 4.
+    jp: |
+      これは第4番目の日本語の歌詞です。
+
+- title: 晨曦之島
+  lyrics_by: 作詞者5
+  music_by: 作曲者5
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 5 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 5.
+    jp: |
+      これは第5番目の日本語の歌詞です。
+
+- title: 櫻花夢境
+  lyrics_by: 作詞者6
+  music_by: 作曲者6
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 6 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 6.
+    jp: |
+      これは第6番目の日本語の歌詞です。
+
+- title: 夏日風鈴
+  lyrics_by: 作詞者7
+  music_by: 作曲者7
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 7 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 7.
+    jp: |
+      これは第7番目の日本語の歌詞です。
+
+- title: 深海迴聲
+  lyrics_by: 作詞者8
+  music_by: 作曲者8
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 8 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 8.
+    jp: |
+      これは第8番目の日本語の歌詞です。
+
+- title: 光年之外
+  lyrics_by: 作詞者9
+  music_by: 作曲者9
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 9 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 9.
+    jp: |
+      これは第9番目の日本語の歌詞です。
+
+- title: 冬夜散步
+  lyrics_by: 作詞者10
+  music_by: 作曲者10
+  default_language: zh
+  lyrics:
+    zh: |
+      這是第 10 首歌的中文歌詞。
+    en: |
+      This is the English lyrics for song 10.
+    jp: |
+      これは第10番目の日本語の歌詞です。
+
