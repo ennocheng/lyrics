@@ -20,7 +20,8 @@
 
 title: 農鏡歌詞網
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: #>- this means to ignore newlines until "baseurl:"
+  更多更詳盡歌詞...還在整理中...<br />
   版權為原作者所有。
 baseurl: "/lyrics" # the subpath of your site, e.g. /blog
 url: "https://ennocheng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
