@@ -6,6 +6,7 @@ layout: default
 title: 專輯一覽
 ---
 
+<div class="content">
 <h1>專輯一覽</h1>
 <ul class="album-list">
   {% for page in site.pages %}
@@ -18,7 +19,7 @@ title: 專輯一覽
     {% endif %}
   {% endfor %}
 </ul>
-
+</div>
 <style>
 .album-list {
   list-style: none;
