@@ -5,38 +5,39 @@ layout: default
   {% include back-link.html %}
   <h1 class="page-title">{{ page.title }}</h1>
 <style>
-.song-nav {
-  display: flex;
-  flex-wrap: wrap; 
-  gap: 0.5em;
-  padding: 0.5em 0;
-  border-bottom: 1px solid #ccc;
-  margin-bottom: 1em;
-  align-items: center; 
-}
-
-.song-nav a {
-  display: inline-block;
-  padding: 0.4em 0.8em;
-  font-size: 0.9em;
-  background: #f7f7f7;
-  border: 1px solid #ccc;
-  border-radius: 0.4em;
-  color: #333;
-  text-decoration: none;
-  white-space: nowrap;
-  transition: background 0.3s;
-}
-
-.song-nav a:hover {
-  background: #ddd;
-}
+  .song-nav {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 0.5em;
+    padding: 0.5em 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+    align-items: center; 
+  }
+  
+  .song-nav a {
+    display: inline-block;
+    padding: 0.4em 0.8em;
+    font-size: 0.9em;
+    background: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 0.4em;
+    color: #333;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.3s;
+  }
+  
+  .song-nav a:hover {
+    background: #ddd;
+  }
 
   .lang-tabs {
     margin: 1em 0;
   }
 
   .lang-tabs button {
+    height: 46px;
     padding: 0.5em 1.2em;
     margin-right: 8px;
     border: 1px solid #ddd;
@@ -78,15 +79,17 @@ layout: default
 
   .lyrics-wrapper {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 1.5em;
     margin-top: 1em;
+    padding-bottom: 1em;
   }
 
   .lyrics-block {
     line-height: 0.8;
-    flex-grow: 1;
-    flex-basis: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
     padding: 1.2em;
     border: 1px solid #ddd;
     display: none;
