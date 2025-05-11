@@ -15,6 +15,7 @@ layout: default
   padding: 0.5em 0;
   border-bottom: 1px solid #ccc;
   margin-bottom: 1em;
+  align-items: center; 
 }
 
 .song-nav a {
@@ -45,7 +46,7 @@ layout: default
     background-color: #f8f8f8;
     color: #333;
     cursor: pointer;
-    font-size: 0.9rem;  /* 縮小字體 */
+    font-size: 0.9rem;
     border-radius: 4px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
@@ -120,7 +121,7 @@ function toggleLang(langId) {
 {% assign album = site.data.albums[page.album_data] %}
 <div class="content">
 <div class="song-nav">
-  <strong>曲目列表：</strong>
+  <strong>曲目：</strong>
   {% for song in album.songs %}
     <a href="#song{{ forloop.index }}">{{ forloop.index }}. {{ song.title }}</a>
   {% endfor %}
