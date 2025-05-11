@@ -2,7 +2,7 @@ album_title: 水逆 Mercury Retrograde
 album_year: 2022
 songs:
   - title: 人如何學會語言
-    lyricist: 鄭宜農
+    lyricist: 鄭宜農（取材自 吳明益〈人如何學會語言〉）
     composer: 鄭宜農、何俊葦
     default_language: ta
     lyrics:
@@ -57,7 +57,45 @@ songs:
         哪時候是返家
         哪時候是較勁
         哪時候是絮絮對話
-  
+      en: |
+        〈How the brain got language?〉
+
+        I unwittingly entered the deepest darkness.
+        This no-man’s land is like a chaotic dream.
+        On-again, off-again, we repeat it over and over yet again.
+        I wanted to speak yet I forgot how to utter a meaningful sound.
+        
+        We still want to cross paths,
+        so with full determination we fly to each other.
+        
+        The rain is soaking your body,
+        The bitter cold shivers my spines,
+        We spread our wings like a newborn bird,
+        with everything we’ve got.
+        
+        Fate floods your eyes,
+        and loneliness chokes my throat.
+        We spread our wings like a newborn bird, 
+        with everything we’ve got.
+        
+        Oh, unknowingly
+        in this no-man’s land, I start thinking about your favorite song.
+        Nothing’s changed, I want to hum the song softly.
+        I open my mouth only to realize it’s still my deepest desire.
+
+        We still want to cross paths,
+        so with full determination we fly to each other.
+
+        The rain is soaking your body,
+        The bitter cold shivers my spines,
+        We spread our wings like a newborn bird,
+        with everything we’ve got.
+        
+        Fate floods your eyes,
+        and loneliness chokes my throat.
+        We spread our wings like a newborn bird, 
+        with everything we’ve got.
+          
   - title: 新世紀的女兒
     lyricist: 鄭宜農
     composer: 鄭宜農、何俊葦
@@ -66,57 +104,193 @@ songs:
       ta: |
         〈新世紀的查某囝〉
 
-        Fly, darlin fly
-        Fight, darlin fight, darlin fight
-        Fly, darlin fly
-        Fight, darlin fight, darlin fight
-        Fly, darlin fly
-        
-        新世紀的查某囝 各有各的夢
-        Fight, darlin fight, darlin fight
-        捀著妳的選擇 一切攏無簡單
+        Fly darlin fly
+        Fight darlin fight darlin fight
+        Fly darlin fly
+        Fight darlin fight darlin fight
+
+        Fly darlin fly
+        新世紀的查某囝
+        各有各的夢
+        Fight darlin fight darlin fight
+        捀著妳的選擇
+        一切攏無簡單
         
         一步一步仔 鬥起來的自我
-        為著責任來煩惱 為著肯定來奔波
+        為著責任來煩惱
+        為著肯定來奔波
         毋願予人知影 心內的脆弱
         
-        理想是甜甜的孤味 生活煞東倒西歪
-        寂寞是做人的本質 戀愛是加麻煩
-        但是目屎哪會恬恬津 滴佇加班的宵夜內面
+        理想是甜甜的孤味
+        生活煞東倒西歪
+        寂寞是做人的本質
+        戀愛是加麻煩
+        但是目屎哪會恬恬津
+        滴佇加班的宵夜內面
         妳敢有聽著妳家己？
         
-        Oh, oh-oh, fly, darlin fly
-        新世紀的查某囝 各有各的夢
-        Fight, darlin fight, darlin fight
-        捀著妳的選擇 一切攏無簡單
+        Oh, oh-oh fly darlin fly
+        新世紀的查某囝
+        各有各的夢
+        Fight darlin fight darlin fight
+        捀著妳的選擇
+        一切攏無簡單
         
-        悲傷
-        孤寂
-        滾躘
-        戰鬥
-        重新開始
-        這是佗一個妳？
+        悲傷 孤寂 滾躘 戰鬥 重新開始
+        這是佗一个妳？
         
         輕跤細手 一步一步
-        為著求愛來痟狂 為著失去來墮落
-        但是無人知影
-        這就是妳的堅強
+        為著求愛來痟狂
+        為著失去來墮落
+        但是無人知影 這就是妳的堅強
         
-        幸福是夢中的風景 規氣就免看予清
-        傷痕是存在的證明 遺憾是過時的戲
-        但是目屎哪會恬恬津 滴佇深夜的酒內面
-        妳敢有聽著妳家己
-        妳敢會記得妳家己
+        幸福是夢中的風景
+        規氣就免看予清
+        傷痕是存在的證明
+        遺憾是過時的戲
+        但是目屎哪會恬恬津
+        滴佇深夜的酒內面
+        妳敢有聽著妳家己？
+        妳敢會記得妳家己？
         
-        Fly, darlin fly
-        新世紀的查某囝 各有各的夢
-        Fight, darlin fight, darlin fight
-        捀著妳的選擇 一切攏無簡單
-        Fly, darlin fly
+        Fly darlin fly
         新世紀的查某囝
-        Fight, darlin fight, darlin fight
-        捀著妳的選擇 我知影無簡單
-
+        各有各的夢
+        Fight darlin fight darlin fight
+        捀著妳的選擇
+        一切攏無簡單
+        Fly darlin fly
+        新世紀的查某囝
+        Fight darlin fight darlin fight
+        捀著妳的選擇
+        我知影無簡單
+      tl: |
+        〈Sin sè-kí ê cha-bó͘-kiáⁿ〉
+        
+        Fly darlin fly
+        Fight darlin fight darlin fight
+        Fly darlin fly
+        Fight darlin fight darlin fight
+        
+        Fly darlin fly
+        Sin sè-kí ê cha-bó͘-kiáⁿ
+        Kok ū kok ê bāng
+        Fight darlin fight darlin fight
+        Phâng-tio̍h lí ê soán-te̍k
+        It-chhè lóng bô kán-tan
+        
+        Chi̍t-pō͘ chi̍t-pō͘-á tàu--khí-lâi ê chū-ngó͘
+        Ūi-tio̍h chek-jīm lâi hoân-ló
+        Ūi-tio̍h khéng-tēng lâi phun-pho
+        M̄-goān hō͘ lâng chai-iáⁿ sim-lāi ê chhùi-jio̍k
+        
+        Lí-sióng sī tiⁿ-tiⁿ ê ko͘-bī
+        Seng-oa̍h soah tang-tó sai-oai
+        Siok-bo̍k sī chò-lâng ê pún-chit
+        Loân-ài sī ke mâ-hoân
+        Tān-sī ba̍k-sái ná-ē tiām-tiām-tin
+        Tih tī ka-pan ê siau-iā lāi-bīn
+        Lí kám-ū thiaⁿ-tio̍h lí ka-kī？
+        
+        Oh, oh-oh fly darlin fly
+        Sin sè-kí ê cha-bó͘-kiáⁿ
+        Kok ū kok ê bāng
+        Fight darlin fight darlin fight
+        Phâng-tio̍h lí ê soán-te̍k
+        It-chhè lóng bô kán-tan
+        
+        Pi-siong, ko͘-che̍k, kún-liòng, chiàn-tàu, tiông-sin khai-sí 
+        Che-sī tó chi̍t-ê lí？
+         
+        Khin-kha sè-chhiú chi̍t-pō͘ chi̍t-pō͘
+        Ūi-tio̍h kiû-ài lâi siáu-kông
+        Ūi-tio̍h sit--khì lâi tūi-lo̍h
+        Tān-sī bô-lâng chai-iáⁿ che tio̍h-sī lí ê kian-kiông
+        
+        Hēng-hok sī bāng-tiong ê hong-kéng
+        Kui-khì tio̍h bián khòaⁿ hō͘ chheng
+        Siong-hûn sī chûn-chāi ê chèng-bêng
+        Ûi-hām sī kòe-sî ê hì
+        Tān-sī ba̍k-sái ná-ē tiām-tiām-tin
+        Tih tī chhim-iā ê chiú lāi-bīn
+        Lí Kám-ū thiaⁿ-tio̍h lí ka-kī？
+        Lí Kám ē kì-tit lí ka-kī？
+        
+        Fly darlin fly
+        Sin sè-kí ê cha-bó͘-kiáⁿ
+        Kok ū kok ê bāng
+        Fight darlin fight darlin fight
+        Phâng-tio̍h lí ê soán-te̍k
+        It-chhè lóng bô kán-tan
+        Fly darlin fly
+        Sin sè-kí ê cha-bó͘-kiáⁿ
+        Fight darlin fight darlin fight
+        Phâng-tio̍h lí ê soán-te̍k
+        Góa chai-iáⁿ bô kán-tan
+      en: |
+        〈Daughters〉
+        
+        Fly darlin fly
+        Fight darlin flight darlin fight
+        Fly darlin fly
+        Fight darlin fight darlin fight
+        
+        Fly darlin fly
+        A woman of a new era,
+        we all have our dreams.
+        Fight darlin fight darlin fight
+        Stick by your choices,
+        nothing is easy.
+        
+        The gradually conflicting inner-self,
+        troubled with responsibilities,
+        striving for recognition,
+        yet we don’t let anyone see the fragile soul inside.
+        
+        Dreams are a sweet and solitary resolve.
+        Life is a hectic mess.
+        Loneliness is human nature.
+        Romance is nothing but trouble.
+        But why do tears streak down silently,
+        dripping on late night snacks after another day of overtime work.
+        Do you dare heed the voices inside your head?
+        
+        Oh, oh-oh fly darlin fly
+        A woman of a new era,
+        we all have our dreams.
+        Fight darlin fight darlin fight
+        Stick by your choices,
+        nothing is easy.
+        
+        Sadness, loneliness, breaking free, strive, start over.
+        Which one is you?
+        
+        With able hands, one step at a time.
+        In a frenzy to find love,
+        falling into the abyss when falling out of love.
+        But no one knows that this is your strength.
+        
+        Blissful happiness is something only in dreams.
+        Why not just wake up and face reality?
+        Scars are proof of existence,
+        regret is but a bygone drama.
+        But why do tears streak down silently,
+        dripping into a late-night glass of wine.
+        Do you dare heed the voices inside your head?
+        Do you still remember who you are?
+        
+        Fly darlin fly
+        A woman of a new era,
+        we all have our dreams.
+        Fight darlin fight darlin fight
+        Stick by your choices,
+        nothing is easy.
+        Fly darlin fly
+        A woman of a new era.
+        Fight darlin fight darlin fight
+        Stick by your choices,
+        I know it’s not easy.
+        
   - title: Speechless
     composer: 何俊葦
   
@@ -132,20 +306,16 @@ songs:
         拄才的夢敢真正是夢
         窗外的世界拄開始震動
         我煞感覺永遠離袂開遮
-        遮有複雜的情意
-        無人聽有的歌
-        硩甲扁扁的定義
-        佮咱霧霧的影
+        遮有複雜的情意 無人聽有的歌
+        硩甲扁扁的定義 佮咱霧霧的影
         有破碎的鏡 認袂出來的人
         
         天已經欲光
         拄才的夢敢真正是夢
-        夢內若像有聽著
-        一寡熟似的聲
-        到底是誰的聲
-        到底是誰的聲
-        親像細漢的時陣
-        阿媽遠遠啊喝
+        夢內若像有聽著 一寡熟似的聲
+        到底是誰的聲 到底是誰的聲
+
+        親像細漢的時陣 阿媽遠遠啊喝
         但是哪會一去就揣袂著轉來的路
         放袂去解袂開的厭氣佮憤怒
         
@@ -155,6 +325,7 @@ songs:
         毋為啥人講
         
         誰誰 你到底是誰 你到底是誰
+
         惡意從你的喙內開花
         我賰永遠寄袂出的批
         遐的字字句句
@@ -170,12 +341,10 @@ songs:
         
         天已經欲光
         拄才的夢敢真正是夢
-        夢內若像有聽著
-        一寡熟似的聲
-        到底是誰的聲
-        到底是誰的聲
-        親像細漢的時陣
-        阿媽遠遠啊喝
+        夢內若像有聽著 一寡熟似的聲
+        到底是誰的聲 到底是誰的聲
+
+        親像細漢的時陣 阿媽遠遠啊喝
         但是哪會一去就揣袂著轉來的路
         放袂去解袂開的厭氣佮憤怒
         
@@ -183,6 +352,112 @@ songs:
         毋為啥人講
         毋為啥人倚靠
         毋為啥人講
+      tl: |
+        〈Thiⁿ í-keng beh kng〉
+        
+        Thiⁿ í-keng beh kng
+        tú-chiah ê bāng kám chin-chiàⁿ sī bāng
+        thang-gōa ê sè-kài tú khai-sí tín-tāng
+        góa soah kám-kak éng-oán lī bē khui chia
+        chia ū ho̍k-cha̍p ê chêng-ì, bô-lâng thiaⁿ-ū ê koa
+        teh kah píⁿ-píⁿ ê tēng-gī, kap lán bū-bū ê iáⁿ
+        ū phò-chhùi ê kiàⁿ, jīn bē chhut-lâi ê lâng
+        
+        Thiⁿ í-keng beh kng
+        tú-chiah ê bāng kám chin-chiàⁿ sī bāng
+        bāng-lāi ná-chhiūⁿ ū thiaⁿ-tio̍h chi̍t-kóa se̍k-sāi ê siaⁿ
+        tàu-té sī siáng ê siaⁿ, tàu-té sī siáng ê siaⁿ
+        
+        Chhin-chhiūⁿ sè-hàn ê sî-chūn, a-má hn̄g-hn̄g-á hoah
+        tān-sī ná-ē chi̍t khì tio̍h chhōe bē tio̍h tńg-lâi ê lō͘
+        pàng bē khì kái bē khui ê iàn-khì kap hùn-nō͘
+        
+        m̄ ūi siáⁿ-lâng óa-khò
+        m̄ ūi siáⁿ-lâng kóng
+        m̄ ūi siáⁿ-lâng óa-khò
+        m̄ ūi siáⁿ-lâng kóng
+        
+        
+        
+        ok-ì chiông lí-ê chhùi-lāi khui-hoe
+        góa chhun éng-oán kià bē chhut ê phoe
+        hia ê jī-jī-kù-kù
+        piàn-chò pông-koan-chiá ê chhiò-ōe
+        góa m̄-chai lí tùi tó-ūi lâi
+        sī chóaⁿ-iūⁿ peng-léng ê só͘-chāi
+        tùi-ōe iáu-bōe chhut-sì tio̍h í-keng kui-thiⁿ
+        lâu góa chi̍t-ê-lâng bān-bān tâi, bān-bān Die
+        
+        Thiⁿ í-keng beh kng
+        tú-chiah ê bāng kám chin-chiàⁿ sī bāng
+        thang-gōa ê sè-kài tú khai-sí tín-tāng
+        
+        Thiⁿ í-keng beh kng
+        tú-chiah ê bāng kám chin-chiàⁿ sī bāng
+        bāng-lāi ná-chhiūⁿ ū thiaⁿ-tio̍h chi̍t-kóa se̍k-sāi ê siaⁿ
+        tàu-té sī siáng ê siaⁿ, tàu-té sī siáng ê siaⁿ
+        
+        Chhin-chhiūⁿ sè-hàn ê sî-chūn, a-má hn̄g-hn̄g-á hoah
+        tān-sī ná-ē chi̍t-khì tio̍h chhōe bē tio̍h tńg-lâi ê lō͘
+        pàng bē khì kái bē khui ê iàn-khì kap hùn-nō͘
+        
+        m̄ ūi siáⁿ-lâng óa-khò
+        m̄ ūi siáⁿ-lâng kóng
+        m̄ ūi siáⁿ-lâng óa-khò
+        m̄ ūi siáⁿ-lâng kóng
+      en: |
+        〈Before Dawn〉
+        
+        The day is getting bright 
+        Was that really just a dream?
+        The world outside has just started to bustle with life
+        But I feel like I can never leave here
+        Complicated emotions, a song no one gets
+        Dejected and dismayed, a shadow of our former selves
+        Broken mirrors, reflecting someone I no longer recognize
+        
+        The day is getting bright 
+        Was that really just a dream?
+        Some familiar voices I heard in my dream
+        Whose voice is it? Whose voice is it?
+        
+        Just like when I was little, my grandma calling from afar
+        But how come I can never find a way back?
+        Can't let go of the unresolved anger and frustration
+        
+        To whom not to rely
+        To whom not to confide
+        To whom not to rely
+        To whom not to confide
+        
+        Who oh who are you? Who are you? Who the heck are you?
+        
+        Malice blossoms from your mouth in flowers 
+        All I have left are letters that can never be sent
+        These words and phrases
+        now seem like a joke
+        I don't know where you come from
+        But it must be a cold cold place
+        Dialogue is dead before it is even born
+        Leaving me to slowly bury and slowly die alone
+        
+        The day is getting bright
+        Was that really just a dream?
+        The world outside has just started to bustle with life
+        
+        The day is getting bright 
+        Was that really just a dream?
+        Some familiar voices I heard in my dream
+        Whose voice is it? Whose voice is it?
+        
+        Just like when I was little, my grandma calling from afar
+        But how come I can never find a way back?
+        Can't let go of the unresolved anger and frustration
+        
+        To whom not to rely
+        To whom not to confide
+        To whom not to rely
+        To whom not to confide
   
   - title: 親愛的
     lyricist: 鄭宜農
@@ -447,20 +722,18 @@ songs:
     default_language: ta
     lyrics:
       ta: |
-        嘿 你敢欲和我鬥陣
-        咱來發明家己的語言
-        彼是目睭對目睭
-        是去宇宙踅過一輾
-        是恬恬咧飛
-        是佇正確佮思考之間
-        謙卑閣自然
+        〈凡勢就變作風景 佇冊內底〉
+
+        嘿 你敢欲和我鬥陣 咱來發明家己的語言
+        彼是目睭對目睭 是去宇宙踅過一輾 是恬恬咧飛
+        是佇正確佮思考之間 謙卑閣自然
         
-        自我親像一蕊花
-        自由開 自由美麗
+        自我親像一蕊花 自由開 自由美麗
         若是有幸 來予詩人經過
         凡勢就變作風景 佇冊內底
         
-        ha~ 啊～
+        ha~
+        啊～
         kemasi palikulikuzan / a pacun tjanusun.
         我在低處仰起頭來 / 向你望啊望
         namaia sun tua qurepus,
@@ -486,10 +759,8 @@ songs:
         修寂寞的學分 不敢問問題
         穿上新衣服 忘了把標籤剪去
         一陣風吹過發出他她牠ㄊㄚ的聲音
-        把秘密藏在一首歌裡
-        你還在尋找傳說中的愛情
-        可能有時候控制不了自己
-        總要讓幾個離人傷心
+        把秘密藏在一首歌裡 你還在尋找傳說中的愛情
+        可能有時候控制不了自己 總要讓幾個離人傷心
         
         雲端是話語的伸展台
         你在找一本最適切的字典
@@ -501,27 +772,89 @@ songs:
         在世界就要緊緊相連的這一天
         在你把拳頭伸向鏡子的那一天
         
-        你敢欲和我鬥陣
-        咱來發明家己的語言
-        彼是目睭對目睭
-        是去宇宙踅過一輾
-        是恬恬咧飛
-        是佇正確佮思考之間
-        謙卑閣自然
+        你敢欲和我鬥陣 咱來發明家己的語言
+        彼是目睭對目睭 是去宇宙踅過一輾 是恬恬咧飛
+        是佇正確佮思考之間 謙卑閣自然
 
         pakilaing tua su varung a semenay.
         順著心裡什麼感動 就唱啊唱
         pakilaing tua su varung a semenay.
         順著心裡什麼感動 就唱啊唱
 
-        自我親像一蕊花
-        自由開 自由美麗
+        自我親像一蕊花 自由開 自由美麗
         若是有幸 來予詩人經過
         凡勢就變作風景 佇冊內底
         marepacun.
         且看你 且看我
         marepacun.
         且看你 且看我
+      kr: |
+        〈아마도 책 속의 풍경이 되겠지〉
+        
+        네가 나와 함께하고 싶다면, 우리 스스로 언어를 만들자
+        눈동자와 눈동자를 마주하고, 우주를 한번 이리저리 오가며, 편안하고 고요하게 날아보자
+        정확하고 알맞은 생각 사이에서 겸손하고 자연스럽게
+        
+        난 한 송이 꽃처럼 자유롭게 피고, 자유롭게 아름다워
+        운이 좋다면 시인의 눈에 띄어
+        책 속에서 한 편의 풍경이 될 수 있겠지
+        
+
+
+        낮은 곳에서 고개를 들어 너를 바라봐
+
+        넌 구름 송이 같은 느낌이야
+
+        공기 같은 느낌이기도 해
+
+        아무것도 널 붙잡아 둘 수 없지
+
+        너는 흔들거리는 나뭇가지처럼 바람에 따라서 오고 가
+
+        어디에도 비길 수 없는 아름다움이지
+
+        마음에 떠오른 감정대로 곧바로 노래해
+
+        마음껏 영혼이 원하는대로 곧바로 뛰어오르지
+
+        콧노래 몇 소절 흥얼거리고
+
+        흔들거리며 몇 걸음 걸어
+
+
+        가물가물한 모습이 이미 너였어
+        쓸쓸함이란 과목을 듣고, 질문조차 못 하지
+        새 옷을 입어보며 라벨 떼는 걸 잊고
+        바람이 한바탕 불어왔다 가며 타타타 하는 소리를 내
+        하나의 곡 안에 비밀을 숨기자, 네가 이야기 속의 사랑을 찾고 있다는 걸
+        아마 어떤 때는 자신을 스스로 제어할 수 없어서, 결국 헤어진 사람들을 슬퍼하게 만들곤 하지
+        
+        구름 속은 이야기의 런웨이야
+        넌 제일 잘 맞는 사전 한 권을 찾고 있어
+        이 하루엔 세상이 단단히 연결되어 있어야 해
+        아직까지 우리는 이 하루를 흩어놓고 산산조각 내고 있어
+        
+        구름 속은 이야기의 런웨이야
+        그런데 넌 아직까지도 제일 잘 맞는 사전 한 권을 찾고 있어
+        이 하루엔 세상이 단단히 연결되어 있어야 해
+        네가 거울을 향해 주먹을 뻗은 그 날
+        
+        네가 나와 함께하고 싶다면, 우리 자신의 언어를 만들자
+        눈동자와 눈동자를 마주하고, 우주를 한번 이리저리 오가며, 편안하고 고요하게 날아보자
+        정확하고 알맞은 생각 사이에서 겸손하고 자연스럽게
+        
+        
+        
+        
+        
+        
+        난 한 송이 꽃처럼 자유롭게 피고, 자유롭게 아름다워
+        운이 좋다면 시인의 눈에 띄어
+        책 속에서 한 편의 풍경이 될 수 있겠지
+
+        잠시 너를 볼게,
+
+        잠시 너를 볼게
 
   - title: 無人看見的所在
     lyricist: 鄭宜農
