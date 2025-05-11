@@ -9,14 +9,14 @@ title: 專輯一覽
 <div class="content">
 <h1>專輯一覽</h1>
 <ul class="album-list">
-  {% for page in site.pages %}
-    {% if page.layout == "album" %}
-      {% assign album = site.data.albums[page.album_data] %}
-      <li>
-        <a href="{{ page.url | relative_url }}">{{ album.album_title }}</a>
-        <span class="album-year">（{{ album.album_year }}）</span>
-      </li>
-    {% endif %}
+  {% assign album_pages = site.pages | where: "layout", "album" %}
+  {% assign sorted_album_pages = album_pages | sort: "sidebar_sort_order" | reverse %}
+  {% for page in sorted_album_pages %}
+    {% assign album = site.data.albums[page.album_data] %}
+    <li>
+      <a href="{{ page.url | relative_url }}">{{ album.album_title }}</a>
+      <span class="album-year">（{{ album.album_year }}）</span>
+    </li>
   {% endfor %}
 </ul>
 </div>

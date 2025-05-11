@@ -138,8 +138,8 @@ function toggleLang(langId) {
 {% for song in album.songs %}
 <div class="song-block" id="song{{ forloop.index }}">
   <div class="song-title">{{ forloop.index }}. {{ song.title }}</div>
-  <div class="song-meta">詞：{{ song.lyricist }}<br>曲：{{ song.composer }}</div>
-
+  <div class="song-meta">{% if song.lyricist %}詞：{{ song.lyricist }}<br>{% endif %}曲：{{ song.composer }}</div>
+{% if song.lyricist %}
   <div class="lang-tabs">
     {% if song.lyrics.ta %}
       <button onclick="toggleLang('ta{{ forloop.index }}')" {% if song.default_language == 'ta' %}class="active"{% endif %} id="btn-ta{{ forloop.index }}">台文（漢字）</button>
@@ -160,6 +160,7 @@ function toggleLang(langId) {
       <button onclick="toggleLang('kr{{ forloop.index }}')" {% if song.default_language == 'kr' %}class="active"{% endif %} id="btn-kr{{ forloop.index }}">한국어</button>
     {% endif %}
   </div>
+{% endif %}
 
   <div class="lyrics-wrapper">
     {% if song.lyrics.ta %}
