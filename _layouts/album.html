@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
+{% assign album = site.data.albums[page.album_data] %}
 <header>
   {% include back-link.html %}
-  <h1 class="page-title">{{ page.title }}</h1>
+  <h1 class="page-title">{{ album.album_title }}</h1>
 </header>
-{% assign album = site.data.albums[page.album_data] %}
 <div class="content">
 <div class="song-nav">
   <!--<strong>曲目：</strong>-->
@@ -19,7 +19,7 @@ layout: default
   <div class="song-title">{{ forloop.index }}. {{ song.title }}</div>
   <div class="song-meta">{% if song.lyricist %}詞：{{ song.lyricist }}<br>{% endif %}曲：{{ song.composer }}</div>
 
-{% assign language_map = 
+{% assign language_map =
   "ta:台文（原文）,
    tl:台文（羅馬字）,
    zh:中文,
