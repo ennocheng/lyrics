@@ -17,7 +17,7 @@ layout: default
 {% for song in album.songs %}
 <div class="song-block" id="song{{ forloop.index }}">
   <div class="song-title">{{ forloop.index }}. {{ song.title }}</div>
-  <div class="song-meta">{% if song.lyricist %}詞：{{ song.lyricist }}<br>{% endif %}曲：{{ song.composer }}{% if song.from_album %}收錄自：{{ song.from_album }}<br>{% endif %}</div>
+  <div class="song-meta">{% if song.lyricist %}詞：{{ song.lyricist }}<br>{% endif %}曲：{{ song.composer }}{% if song.from_album %}<br>收錄自：{{ song.from_album }}<br>{% endif %}</div>
 
 {% assign language_map =
   "ta:台文（原文）,
