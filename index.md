@@ -15,7 +15,7 @@ title: 專輯一覽
     {% assign album = site.data.albums[page.album_data] %}
     <li>
       <a href="{{ page.url | relative_url }}">{{ album.album_title }}</a>
-      <span class="album-year">（{{ album.album_year }}）</span>
+      {% if  album.album_year %}<span class="album-year">（{{ album.album_year }}）</span>{% endif %}
     </li>
   {% endfor %}
 </ul>
