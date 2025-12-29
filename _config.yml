@@ -22,7 +22,7 @@ title: 鄭宜農歌詞全集
 #email: your-email@example.com
 description: #>- this means to ignore newlines until "baseurl:"
   非官方網站，版權為原作者所有。<br />
-  問題回報請至：<a href="https://github.com/ennocheng/lyrics/issues">🐞</a>
+  以電腦瀏覽可獲得最佳體驗，問題回報請至：<a href="https://github.com/ennocheng/lyrics/issues">🐞</a>
 baseurl: "/lyrics" # the subpath of your site, e.g. /blog
 url: "https://ennocheng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
