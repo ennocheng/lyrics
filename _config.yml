@@ -29,7 +29,7 @@ url: "https://ennocheng.github.io" # the base hostname & protocol for your site,
 #github_username:  jekyll
 
 # Google Analytics 4
-google_analytics: G-0E1TBNT1NF  # 請替換為您的實際 GA4 追蹤 ID
+google_analytics: G-WDF3K8YM1P  # 請替換為您的實際 GA4 追蹤 ID
 
 # Build settings
 theme: jekyll-theme-hydeout
