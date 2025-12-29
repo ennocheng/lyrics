@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 農鏡歌詞網
+title: 鄭宜農歌詞全集
 #email: your-email@example.com
 description: #>- this means to ignore newlines until "baseurl:"
   更多更詳盡歌詞...還在整理中...<br />
