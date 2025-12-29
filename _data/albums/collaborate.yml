@@ -3,7 +3,7 @@ songs:
   - title: Right Here
     lyricist: 鄭雙雙、鄭宜農
     composer: 鄭雙雙、鄭宜農、何俊葦
-    from_album: 北流五週年音樂共創計畫
+    from_album: 北流五週年音樂共創計畫（2025）
     default_language: zh
     lyrics:
       zh: |
@@ -68,7 +68,7 @@ songs:
   - title: 池山下的孩子
     lyricist: 牡丹國小第70屆畢業生、牡丹國小五年級學生、鄭宜農
     composer: 鄭宜農
-    from_album: Pulima（屏東縣牡丹國小第70屆畢業歌）
+    from_album: Pulima 屏東縣牡丹國小第70屆畢業歌（2025）
     default_language: zh
     lyrics:
       zh: |
@@ -120,7 +120,7 @@ songs:
   - title: 未完待續
     lyricist: 楊佳偉、鄭宜農
     composer: 鄭宜農
-    from_album: 飲冰室茶集為愛發聲 創作曲
+    from_album: 飲冰室茶集為愛發聲 創作曲（2024）
     default_language: zh
     lyrics:
       zh: |
@@ -164,7 +164,7 @@ songs:
   - title: 我一直都以為我是一個人
     lyricist: 片山凉太、鄭宜農
     composer: 片山凉太、鄭宜農
-    from_album: what am i to you?
+    from_album: 片山凉太《what am i to you?》（2024）
     default_language: zh
     lyrics:
       zh: |
@@ -214,7 +214,7 @@ songs:
   - title: 基礎憂鬱
     lyricist: 李奕賢、鄭宜農
     composer: 李奕賢、鄭宜農
-    from_album: 且且
+    from_album: wannasleep《且且》（2024）
     default_language: zh
     lyrics:
       zh: |
@@ -280,7 +280,7 @@ songs:
   - title: 新造的人
     lyricist: 李烈、鄭宜農
     composer: 鄭宜農、盧律銘
-    from_album: 周處除三害（電影原聲帶）
+    from_album: 周處除三害 電影原聲帶（2023）
     default_language: zh
     lyrics:
       zh: |
@@ -322,7 +322,7 @@ songs:
   - title: 白日
     lyricist: 鄭宜農
     composer: 大象體操、鄭宜農
-    from_album: 角度
+    from_album: 大象體操《角度》（2014）
     default_language: zh
     lyrics:
       zh: |
