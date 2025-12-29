@@ -3,7 +3,7 @@ songs:
   - title: 你是真的不懂
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 2025《看你聽的》系列主題曲
+    from_album: 《看你聽的》系列主題曲（2025）
     default_language: zh
     lyrics:
       zh: |
@@ -60,7 +60,7 @@ songs:
   - title: 如果你也想起來
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 《第一次遇見花香的那刻》第二季主題曲
+    from_album: 《第一次遇見花香的那刻》第二季主題曲（2025）
     default_language: zh
     lyrics:
       zh: |
@@ -110,7 +110,7 @@ songs:
   - title: 完美的我們
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 《你的婚姻不是你的婚姻》主題曲
+    from_album: 《你的婚姻不是你的婚姻》主題曲（2022）
     default_language: zh
     lyrics:
       zh: |
@@ -162,7 +162,7 @@ songs:
   - title: 終戰
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 台北大空襲電玩主題曲
+    from_album: 台北大空襲電玩主題曲（2022）
     default_language: zh
     lyrics:
       zh: |
@@ -201,7 +201,7 @@ songs:
   - title: 第一次遇見花香的那刻
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 《第一次遇見花香的那刻》主題曲
+    from_album: 《第一次遇見花香的那刻》主題曲（2021）
     default_language: zh
     lyrics:
       zh: |
@@ -247,7 +247,7 @@ songs:
   - title: 妖怪人間
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 《妖怪人間》主題曲
+    from_album: 《妖怪人間》主題曲（2020）
     default_language: zh
     lyrics:
       zh: |
@@ -284,7 +284,7 @@ songs:
   - title: 人生很難
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 《奇蹟的女兒》片頭曲
+    from_album: 《奇蹟的女兒》片頭曲（2018）
     default_language: zh
     lyrics:
       zh: |
@@ -326,7 +326,7 @@ songs:
   - title: 去海邊
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 《英文歌A Better World》
+    from_album: 《英文歌A Better World》（2011）
     default_language: zh
     lyrics:
       zh: |
@@ -355,7 +355,7 @@ songs:
   - title: 給阿婆的歌
     lyricist: 鄭宜農
     composer: 鄭宜農
-    from_album: 2010客家桐花祭（桐花之星）桐花流行音樂專輯
+    from_album: 客家桐花祭《桐花之星》桐花流行音樂專輯（2010）
     default_language: zh
     lyrics:
       zh: |
