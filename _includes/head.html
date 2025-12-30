@@ -7,12 +7,59 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}{% if site.tagline %} | {{ site.tagline }}{% endif %}
-    {% else %}
       {{ page.title }} | {{ site.title }}
-    {% endif %}
   </title>
+
+  <!-- Meta Description -->
+  {% if page.layout == "album" %}
+    {% assign album = site.data.albums[page.album_data] %}
+    {% if album.album_year %}
+      <meta name="description" content="收錄鄭宜農《{{ album.album_title }}》專輯完整歌詞，包含 {{ album.songs.size }} 首歌曲。" />
+    {% else %}
+      <meta name="description" content="收錄鄭宜農完整歌詞。" />
+    {% endif %}
+  {% elsif page.description %}
+    <meta name="description" content="{{ page.description }}" />
+  {% elsif page.path == "index.md" %}
+    <meta name="description" content="收錄鄭宜農完整歌詞。" />
+  {% endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="{% if page.layout == 'album' %}music.album{% else %}website{% endif %}" />
+  <meta property="og:title" content="{% if page.path == 'index.md' %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+
+  {% if page.layout == "album" %}
+    {% assign album = site.data.albums[page.album_data] %}
+    {% if album.album_year %}
+      <meta property="og:description" content="收錄鄭宜農《{{ album.album_title }}》專輯完整歌詞，包含 {{ album.songs.size }} 首歌曲。" />
+    {% else %}
+      <meta property="og:description" content="收錄鄭宜農完整歌詞。" />
+    {% endif %}
+    <meta property="music:musician" content="鄭宜農" />
+    {% if album.album_year %}<meta property="music:release_date" content="{{ album.album_year }}" />{% endif %}
+  {% elsif page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+  {% elsif page.path == "index.md" %}
+    <meta property="og:description" content="收錄鄭宜農完整歌詞。" />
+  {% endif %}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{% if page.path == 'index.md' %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}" />
+  {% if page.layout == "album" %}
+    {% assign album = site.data.albums[page.album_data] %}
+    {% if album.album_year %}
+      <meta name="twitter:description" content="收錄鄭宜農《{{ album.album_title }}》專輯完整歌詞，包含 {{ album.songs.size }} 首歌曲。" />
+    {% else %}
+      <meta name="twitter:description" content="收錄鄭宜農完整歌詞。" />
+    {% endif %}
+  {% elsif page.description %}
+    <meta name="twitter:description" content="{{ page.description }}" />
+  {% elsif page.path == "index.md" %}
+    <meta name="twitter:description" content="收錄鄭宜農完整歌詞。" />
+  {% endif %}
 
   {% include google-analytics.html %}
 
