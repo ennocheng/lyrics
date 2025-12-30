@@ -2,6 +2,7 @@ album_title: 圓缺 Moon Phases
 album_year: 2025
 songs:
   - title: 真罕得想起來
+    en_title: Rarely Thinks of It
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -315,6 +316,7 @@ songs:
         사랑하는 법을 배우고 싶어
 
   - title: 留佇咱的血內底
+    en_title: Remains in Our Blood
     lyricist: 鄭宜農
     composer: 鄭宜農、何俊葦
     default_language: ta
@@ -597,6 +599,7 @@ songs:
         우리의 피 속에 흐르고 있어
 
   - title: 歹物仔
+    en_title: The Bad Things
     lyricist: 鄭宜農
     composer: 鄭宜農、何俊葦
     default_language: ta
@@ -819,6 +822,7 @@ songs:
         나쁜 것을 만나게 해서
 
   - title: 未曾準備好
+    en_title: Never Been Ready
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -918,6 +922,7 @@ songs:
         Memories fade away little by little
 
   - title: 牽我
+    en_title: Hold My Hand
     lyricist: 鄭宜農
     composer: 鄭宜農、何俊葦
     default_language: ta
@@ -1206,6 +1211,7 @@ songs:
         네가 나를 잡아준다면 나는 두렵지 않아
 
   - title: 寬寬仔來到祢的面前
+    en_title: Slowly Come to Thee
     lyricist: 鄭宜農、李瀧
     composer: 鄭宜農、李瀧
     default_language: ta
@@ -1530,6 +1536,7 @@ songs:
         그 속의 단 하나의 고유한 삶
 
   - title: 又閣減一工
+    en_title: Another Day Gone by
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -1662,6 +1669,7 @@ songs:
         It's because another day has gone by in this life
 
   - title: 一寡時間
+    en_title: Some Time
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -1764,6 +1772,7 @@ songs:
         All I need is some time
 
   - title: 講袂出嘴的彼个字
+    en_title: The Word Left Unsaid
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -1898,6 +1907,7 @@ songs:
         아⋯
 
   - title: 圓缺
+    en_title: Moon Phases
     lyricist: 鄭宜農（與蘇軾〈水調歌頭〉節錄）
     composer: 鄭宜農、何俊葦
     default_language: ta
