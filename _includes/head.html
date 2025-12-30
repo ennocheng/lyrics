@@ -8,9 +8,9 @@
 
   <title>
     {% if page.path == "index.md" %}
-      {{ site.title }} Enno Cheng Lyrics：收錄鄭宜農完整歌詞
+      {{ site.title }} {{ site.en_title }}：收錄鄭宜農完整歌詞
     {% else %}
-      {{ page.title }} 歌詞 | {{ site.title }} Enno Cheng Lyrics
+      {{ page.title }} 歌詞 | {{ site.title }} {{ site.en_title }}
     {% endif %}
   </title>
 
@@ -31,9 +31,9 @@
   <meta name="keywords" content="鄭宜農, Enno Cheng, 歌詞, Lyrics" />
 
   <!-- Open Graph -->
-  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:site_name" content="{{ site.title }} {{ site.en_title }}" />
   <meta property="og:type" content="{% if page.layout == 'album' %}music.album{% else %}website{% endif %}" />
-  <meta property="og:title" content="{% if page.path == 'index.md' %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}" />
+  <meta property="og:title" content="{% if page.path == 'index.md' %}{{ site.title }} {{ site.en_title }}{% else %}{{ page.title }} | {{ site.title }} {{ site.en_title }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
 
   <!-- Open Graph Image -->
@@ -70,7 +70,7 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{% if page.path == 'index.md' %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}" />
+  <meta name="twitter:title" content="{% if page.path == 'index.md' %}{{ site.title }} {{ site.en_title }}{% else %}{{ page.title }} | {{ site.title }} {{ site.en_title }}{% endif %}" />
   {% if page.layout == "album" %}
     {% assign album = site.data.albums[page.album_data] %}
     {% if album.album_year %}
