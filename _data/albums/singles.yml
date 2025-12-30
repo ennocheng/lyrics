@@ -1,6 +1,7 @@
 album_title: 單曲
 songs:
   - title: 你是真的不懂
+    en_title: The Orange of My Eye
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 《看你聽的》系列主題曲（2025）
@@ -108,6 +109,7 @@ songs:
         你能不能 想起來 ?
 
   - title: 完美的我們
+    en_title: I Am Sorry
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 《你的婚姻不是你的婚姻》主題曲（2022）
@@ -160,6 +162,7 @@ songs:
         明明都成為了期待的樣子
 
   - title: 終戰
+    en_title: When the Sky Returned
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 台北大空襲電玩主題曲（2022）
@@ -199,6 +202,7 @@ songs:
         目屎的痕已經焦去
 
   - title: 第一次遇見花香的那刻
+    en_title: Fragrance of the First Flower
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 《第一次遇見花香的那刻》主題曲（2021）
@@ -245,6 +249,7 @@ songs:
         認識世界的那一天
 
   - title: 妖怪人間
+    en_title: Monstrous Me
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 《妖怪人間》主題曲（2020）
@@ -282,6 +287,7 @@ songs:
         我只是一個沒有記憶的過路人
 
   - title: 人生很難
+    en_title: The Path
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 《奇蹟的女兒》片頭曲（2018）

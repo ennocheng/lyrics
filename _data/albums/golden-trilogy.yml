@@ -2,6 +2,7 @@ album_title: 金黃色三部曲
 album_year: 2023
 songs:
   - title: 金黃色的
+    en_title: Golden
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -249,6 +250,7 @@ songs:
         There’s so many sounds in the world.
 
   - title: 咱
+    en_title: us
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta

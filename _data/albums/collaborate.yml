@@ -66,6 +66,7 @@ songs:
         The priceless ticket, how could we pay?
 
   - title: 池山下的孩子
+    en_title: PULIMA
     lyricist: 牡丹國小第70屆畢業生、牡丹國小五年級學生、鄭宜農
     composer: 鄭宜農
     from_album: Pulima 屏東縣牡丹國小第70屆畢業歌（2025）
@@ -118,6 +119,7 @@ songs:
         ulja tjen a natemalidu lja
 
   - title: 未完待續
+    en_title: To Be Continued
     lyricist: 楊佳偉、鄭宜農
     composer: 鄭宜農
     from_album: 飲冰室茶集為愛發聲 創作曲（2024）
@@ -162,6 +164,7 @@ songs:
         我卻甘願陪你未完待續。
 
   - title: 我一直都以為我是一個人
+    en_title: I Thought I Was All Alone
     lyricist: 片山凉太、鄭宜農
     composer: 片山凉太、鄭宜農
     from_album: 片山凉太《what am i to you?》（2024）
@@ -212,6 +215,7 @@ songs:
         在尋找屬於自己的光
 
   - title: 基礎憂鬱
+    en_title: Essential Blues
     lyricist: 李奕賢、鄭宜農
     composer: 李奕賢、鄭宜農
     from_album: wannasleep《且且》（2024）
@@ -320,6 +324,7 @@ songs:
         他將會永生 在你我的心中
 
   - title: 白日
+    en_title: Day Time
     lyricist: 鄭宜農
     composer: 大象體操、鄭宜農
     from_album: 大象體操《角度》（2014）

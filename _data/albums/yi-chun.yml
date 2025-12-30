@@ -1,10 +1,11 @@
 album_title: 怡君
 album_year: 2015
 songs:
-  - title: A Day
+  - title: a day
     composer: 猛虎巧克力
 
   - title: 重生橋
+    en_title: Across The Bridge of Rebirth
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -31,6 +32,7 @@ songs:
         直到那天能夠承認一切如夢一場
 
   - title: 也只能說抱歉了
+    en_title: At Last I Must Say Sorry
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -57,6 +59,7 @@ songs:
         我已經太累了 必須離開
 
   - title: 理由
+    en_title: Cause
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -88,6 +91,7 @@ songs:
         我想要守護你為你勇敢
 
   - title: 永恆的夢
+    en_title: Eternal Dream
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -123,6 +127,7 @@ songs:
         我們說愛 然後沈睡
 
   - title: 夜行性動物
+    en_title: Ageha
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -151,6 +156,7 @@ songs:
         在這片閃爍的黑暗中 你不需要任何理由
 
   - title: 在一起
+    en_title: Be Together
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -195,6 +201,7 @@ songs:
         但沒關係 但沒關係
 
   - title: 不再是少年
+    en_title: Goodbye Naiveté, Goodbye
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -229,6 +236,7 @@ songs:
         還有你天真的笑臉
 
   - title: 給奇怪的你
+    en_title: For My Dear Weirdo
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -271,6 +279,7 @@ songs:
         有我陪著你 長大就沒那麼可怕 啦啦啦
 
   - title: 金花
+    en_title: Golden Flower
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -303,6 +312,7 @@ songs:
         讓我當妳的翅膀
 
   - title: 止水之湖
+    en_title: Still Water
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh

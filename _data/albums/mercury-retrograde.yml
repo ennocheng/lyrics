@@ -2,6 +2,7 @@ album_title: 水逆 Mercury Retrograde
 album_year: 2022
 songs:
   - title: 人如何學會語言
+    en_title: How the brain got language?
     lyricist: 鄭宜農（取材自 吳明益〈人如何學會語言〉）
     composer: 鄭宜農、何俊葦
     default_language: ta
@@ -161,6 +162,7 @@ songs:
         수다 떨 때
 
   - title: 新世紀的女兒
+    en_title: Daughters
     lyricist: 鄭宜農
     composer: 鄭宜農、何俊葦
     default_language: ta
@@ -359,6 +361,7 @@ songs:
     composer: 何俊葦
 
   - title: 天已經要光
+    en_title: Before dawn
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -524,6 +527,7 @@ songs:
         To whom not to confide
 
   - title: 親愛的
+    en_title: Dear,
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -625,6 +629,7 @@ songs:
         彼的歌攏是寫予你
 
   - title: 最好的距離
+    en_title: Distance
     lyricist: 鄭宜農、deca joins
     composer: 鄭宜農、deca joins
     default_language: ta
@@ -682,6 +687,7 @@ songs:
         無人唱過的歌
 
   - title: 囡仔汗 (Album Version)
+    en_title: Baby sweat
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -742,6 +748,7 @@ songs:
         微微的 芳芳的 囡仔汗
 
   - title: 做風颱
+    en_title: Silver lining
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -781,6 +788,7 @@ songs:
         雲明仔載會開
 
   - title: 或許就變成書裡的風景 (Album Version)
+    en_title: The scenery
     lyricist: 鄭宜農、阿爆（阿仍仍）、王秋蘭（愛靜）
     composer: 鄭宜農、阿爆（阿仍仍）、何俊葦
     default_language: ta
@@ -921,6 +929,7 @@ songs:
         잠시 너를 볼게
 
   - title: 無人看見的所在
+    en_title: In our place
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: ta

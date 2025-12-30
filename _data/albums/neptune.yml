@@ -2,6 +2,7 @@ album_title: 海王星 Neptune
 album_year: 2011
 songs:
   - title: 太陽
+    en_title: Your Sun
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -35,6 +36,7 @@ songs:
         當你的太陽
 
   - title: 路
+    en_title: Long Road
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -69,6 +71,7 @@ songs:
         圍繞著我 掉落的心
 
   - title: 春天
+    en_title: Spring Love
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -95,6 +98,7 @@ songs:
         其實真的很快樂
 
   - title: 大雨城市
+    en_title: City of Rain
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -131,6 +135,7 @@ songs:
         什麼都有其實什麼都沒有
 
   - title: 還是會害怕失去你
+    en_title: Still Afraid
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -162,6 +167,7 @@ songs:
         我還是會害怕 失去你
 
   - title: 獨立日
+    en_title: Independence Day
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -194,6 +200,7 @@ songs:
         就不會跌倒
 
   - title: 撒唷那拉
+    en_title: SAYONARA
     lyricist: 楊大正、鄭宜農
     composer: 鄭宜農
     default_language: ta
@@ -218,6 +225,7 @@ songs:
         一嘴吞腹內
 
   - title: 別忘了你自己
+    en_title: I Am
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -271,6 +279,7 @@ songs:
         Just like I love you
 
   - title: 城堡
+    en_title: Castle
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh

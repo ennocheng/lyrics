@@ -2,6 +2,7 @@ album_title: 夜工廠 Nighttime Factory
 album_year: 2013
 songs:
   - title: 拼湊
+    en_title: Piecing Together
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -31,6 +32,7 @@ songs:
         每一天
 
   - title: 怎麼辦
+    en_title: What to Do
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -63,6 +65,7 @@ songs:
         怎麼辦？我應該怎麼辦？
 
   - title: 無以名狀
+    en_title: A Nameless Mood
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -87,6 +90,7 @@ songs:
         誰也不想用自我為彼此灌溉
 
   - title: 別讓我孤單
+    en_title: Don't Leave Me Alone
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -114,6 +118,7 @@ songs:
         願我們都足夠堅強
 
   - title: 小事
+    en_title: Triviality
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -156,6 +161,7 @@ songs:
         其實是小事一場
 
   - title: 四百擊
+    en_title: The 400 Blows
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -177,6 +183,7 @@ songs:
         眼淚在無聲的黑白之中 漸漸淡薄
 
   - title: 腦炸症
+    en_title: Information Overload Syndrome
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -203,6 +210,7 @@ songs:
         換一瞬光芒
 
   - title: 游
+    en_title: Swimming
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh
@@ -233,6 +241,7 @@ songs:
         大口呼吸 用力的活
 
   - title: 夜工廠
+    en_title: Nighttime Factory
     lyricist: 鄭宜農
     composer: 猛虎巧克力
     default_language: zh

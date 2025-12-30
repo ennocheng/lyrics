@@ -2,6 +2,7 @@ album_title: Pluto
 album_year: 2017
 songs:
   - title: 太空垃圾之死
+    en_title: Recycling in the Universe
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -40,6 +41,7 @@ songs:
         我們相愛
 
   - title: 那些酒精成癮的日子
+    en_title: Golden Old Days
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -84,6 +86,7 @@ songs:
         you'll always be my love.
 
   - title: 獸眠
+    en_title: Fantastic Beasts and Where to Find Them
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -120,6 +123,7 @@ songs:
         那裡或許能碰見最真實的你
 
   - title: 雲端漫舞
+    en_title: Her
     lyricist: 鄭宜農（詩文出自：Carol Ann Duffy - "World" in Rapture）
     composer: 鄭宜農
     default_language: zh
@@ -209,6 +213,7 @@ songs:
         我們將用夢境來遺忘
 
   - title: 冬眠
+    en_title: If Winter Comes, Can Spring be Far Behind?
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -304,6 +309,7 @@ songs:
         （可以擁抱你嗎？）
 
   - title: 飛行少年
+    en_title: Catch Me If You Can
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -353,6 +359,7 @@ songs:
         雙手張開你就能騰空起飛
 
   - title: 溫州街五巷
+    en_title: The Warmest Street in Taipei
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -392,6 +399,7 @@ songs:
         So it's okay to be lonely.
 
   - title: 光
+    en_title: Pride
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
@@ -422,6 +430,7 @@ songs:
         再過不久 一定就能看見光
 
   - title: 酒店關門之後
+    en_title: Last Order
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
