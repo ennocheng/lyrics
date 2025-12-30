@@ -7,7 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
   <title>
-      {{ page.title }} | {{ site.title }}
+    {% if page.path == "index.md" %}
+      {{ site.title }} ：收錄鄭宜農完整歌詞
+    {% else %}
+      {{ page.title }} 歌詞 | {{ site.title }}
+    {% endif %}
   </title>
 
   <!-- Meta Description -->
@@ -23,6 +27,8 @@
   {% elsif page.path == "index.md" %}
     <meta name="description" content="收錄鄭宜農完整歌詞。" />
   {% endif %}
+
+  <meta name="keywords" content="鄭宜農, Enno Cheng, 歌詞, Lyrics" />
 
   <!-- Open Graph -->
   <meta property="og:site_name" content="{{ site.title }}" />
