@@ -40,15 +40,15 @@
   {% if page.layout == "album" %}
     {% assign album = site.data.albums[page.album_data] %}
     {% if album.album_year %}
-      {% assign album_image_url = "https://static.ennocheng.club/assets/images/album_" | append: page.album_data | append: ".png" %}
+      {% assign album_image_url = site.image_base_url | append: "album_" | append: page.album_data | append: ".png" %}
       <meta property="og:image" content="{{ album_image_url }}" />
       <meta property="og:image:alt" content="{{ album.album_title }} 專輯封面" />
     {% else %}
-      <meta property="og:image" content="https://static.ennocheng.club/assets/images/album_default.png" />
+      <meta property="og:image" content="{{ site.default_og_image }}" />
       <meta property="og:image:alt" content="鄭宜農歌詞全集" />
     {% endif %}
   {% else %}
-    <meta property="og:image" content="https://static.ennocheng.club/assets/images/album_default.png" />
+    <meta property="og:image" content="{{ site.default_og_image }}" />
     <meta property="og:image:alt" content="鄭宜農歌詞全集" />
   {% endif %}
   <meta property="og:image:type" content="image/png" />
@@ -74,15 +74,15 @@
   {% if page.layout == "album" %}
     {% assign album = site.data.albums[page.album_data] %}
     {% if album.album_year %}
-      {% assign album_image_url = "https://static.ennocheng.club/assets/images/album_" | append: page.album_data | append: ".png" %}
+      {% assign album_image_url = site.image_base_url | append: "album_" | append: page.album_data | append: ".png" %}
       <meta name="twitter:image" content="{{ album_image_url }}" />
       <meta name="twitter:image:alt" content="{{ album.album_title }} 專輯封面" />
     {% else %}
-      <meta name="twitter:image" content="https://static.ennocheng.club/assets/images/album_default.png" />
+      <meta name="twitter:image" content="{{ site.default_og_image }}" />
       <meta name="twitter:image:alt" content="鄭宜農歌詞全集" />
     {% endif %}
   {% else %}
-    <meta name="twitter:image" content="https://static.ennocheng.club/assets/images/album_default.png" />
+    <meta name="twitter:image" content="{{ site.default_og_image }}" />
     <meta name="twitter:image:alt" content="鄭宜農歌詞全集" />
   {% endif %}
   {% if page.layout == "album" %}
