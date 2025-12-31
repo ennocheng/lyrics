@@ -8,7 +8,7 @@
 
   <title>
     {% if page.path == "index.md" %}
-      {{ site.title }} {{ site.en_title }}：收錄鄭宜農完整歌詞
+      {{ site.title }} {{ site.en_title }}：收錄鄭宜農歌詞創作
     {% else %}
       {{ page.title }} 歌詞 | {{ site.title }} {{ site.en_title }}
     {% endif %}
@@ -20,12 +20,12 @@
     {% if album.album_year %}
       <meta name="description" content="收錄鄭宜農《{{ album.album_title }}》專輯完整歌詞，包含 {{ album.songs.size }} 首歌曲。" />
     {% else %}
-      <meta name="description" content="收錄鄭宜農完整歌詞。" />
+      <meta name="description" content="收錄鄭宜農歌詞創作。" />
     {% endif %}
   {% elsif page.description %}
     <meta name="description" content="{{ page.description }}" />
   {% elsif page.path == "index.md" %}
-    <meta name="description" content="收錄鄭宜農完整歌詞。" />
+    <meta name="description" content="收錄鄭宜農歌詞創作。" />
   {% endif %}
 
   <meta name="keywords" content="鄭宜農, Enno Cheng, 歌詞, Lyrics" />
@@ -45,11 +45,11 @@
       <meta property="og:image:alt" content="{{ album.album_title }} 專輯封面" />
     {% else %}
       <meta property="og:image" content="{{ site.default_og_image }}" />
-      <meta property="og:image:alt" content="鄭宜農歌詞全集" />
+      <meta property="og:image:alt" content="{{ site.title }}" />
     {% endif %}
   {% else %}
     <meta property="og:image" content="{{ site.default_og_image }}" />
-    <meta property="og:image:alt" content="鄭宜農歌詞全集" />
+    <meta property="og:image:alt" content="{{ site.title }}" />
   {% endif %}
   <meta property="og:image:type" content="image/png" />
 
@@ -58,14 +58,14 @@
     {% if album.album_year %}
       <meta property="og:description" content="收錄鄭宜農《{{ album.album_title }}》專輯完整歌詞，包含 {{ album.songs.size }} 首歌曲。" />
     {% else %}
-      <meta property="og:description" content="收錄鄭宜農完整歌詞。" />
+      <meta property="og:description" content="收錄鄭宜農歌詞創作。" />
     {% endif %}
     <meta property="music:musician" content="鄭宜農" />
     {% if album.album_year %}<meta property="music:release_date" content="{{ album.album_year }}" />{% endif %}
   {% elsif page.description %}
     <meta property="og:description" content="{{ page.description }}" />
   {% elsif page.path == "index.md" %}
-    <meta property="og:description" content="收錄鄭宜農完整歌詞。" />
+    <meta property="og:description" content="收錄鄭宜農歌詞創作。" />
   {% endif %}
 
   <!-- Twitter Card -->
@@ -79,23 +79,23 @@
       <meta name="twitter:image:alt" content="{{ album.album_title }} 專輯封面" />
     {% else %}
       <meta name="twitter:image" content="{{ site.default_og_image }}" />
-      <meta name="twitter:image:alt" content="鄭宜農歌詞全集" />
+      <meta name="twitter:image:alt" content="{{ site.title }}" />
     {% endif %}
   {% else %}
     <meta name="twitter:image" content="{{ site.default_og_image }}" />
-    <meta name="twitter:image:alt" content="鄭宜農歌詞全集" />
+    <meta name="twitter:image:alt" content="{{ site.title }}" />
   {% endif %}
   {% if page.layout == "album" %}
     {% assign album = site.data.albums[page.album_data] %}
     {% if album.album_year %}
       <meta name="twitter:description" content="收錄鄭宜農《{{ album.album_title }}》專輯完整歌詞，包含 {{ album.songs.size }} 首歌曲。" />
     {% else %}
-      <meta name="twitter:description" content="收錄鄭宜農完整歌詞。" />
+      <meta name="twitter:description" content="收錄鄭宜農歌詞創作。" />
     {% endif %}
   {% elsif page.description %}
     <meta name="twitter:description" content="{{ page.description }}" />
   {% elsif page.path == "index.md" %}
-    <meta name="twitter:description" content="收錄鄭宜農完整歌詞。" />
+    <meta name="twitter:description" content="收收錄鄭宜農歌詞創作。" />
   {% endif %}
 
   {% include google-analytics.html %}
