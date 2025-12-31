@@ -22,7 +22,7 @@ title: 鄭宜農歌詞簿
 en_title: Enno Cheng Lyrics
 #email: your-email@example.com
 description: #>- this means to ignore newlines until "baseurl:"
-  非官方網站，收錄鄭宜農創作歌詞，版權為原作者所有。<br />
+  非官方網站，收錄鄭宜農歌詞創作，版權為原作者所有。<br />
   以電腦瀏覽可獲得最佳體驗，問題回報請至：<a href="https://github.com/ennocheng/lyrics/issues">🐞</a>
 #baseurl: "/lyrics" # the subpath of your site, e.g. /blog
 url: "https://lyrics.ennocheng.club" # the base hostname & protocol for your site, e.g. http://example.com
