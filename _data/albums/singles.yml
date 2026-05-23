@@ -1,5 +1,56 @@
 album_title: 單曲
 songs:
+  - title: 大愛街2巷
+    en_title: 'Da Ai Street: Alley 2'
+    lyricist: 鄭宜農
+    composer: 李壽全、武雄
+    from_album: 電視劇《大愛街2巷》主題曲（2026）
+    default_language: ta
+    lyrics:
+      ta: |
+        透早窗仔邊
+        有淡薄仔鬧熱
+        夢中就聽著
+        慰問的聲音
+
+        向望平安好心情
+        平凡日子閣開始
+
+        下班的車廂
+        挨挨陣陣
+        行到這條街
+        有熟似的氣味
+
+        看著真心的笑容
+        孤單的心著安慰
+
+        惜情的咱
+        今仔日鬥陣
+        互相照顧學寬心
+
+        惜情的咱
+        今仔日鬥陣
+        是緣份看顧好的人
+
+        透早窗仔邊
+        有淡薄仔鬧熱
+        真快樂佇遮
+        有你的聲音
+
+        這是真實的心情
+        平凡日子嘛趣味
+
+        惜情的咱
+        今仔日鬥陣
+        互相照顧學寬心
+
+        惜情的咱
+        今仔日鬥陣
+        是緣份看顧好的人
+
+        惜情的咱
+        今仔日鬥陣
+        是緣份看顧好的人
   - title: 有時候我會想要傷害我的朋友
     en_title: Friendly Fire：On
     lyricist: 鄭宜農
@@ -369,9 +420,9 @@ songs:
     lyricist: 鄭宜農
     composer: 鄭宜農
     from_album: 台北大空襲電玩主題曲（2022）
-    default_language: zh
+    default_language: ta
     lyrics:
-      zh: |
+      ta: |
         天頂總算還予天頂
         大樹總算還予春天
         我想我嘛應該 共自由還予你

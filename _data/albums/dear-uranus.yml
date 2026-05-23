@@ -52,6 +52,8 @@ songs:
     default_language: ta
     lyrics:
       ta: |
+        〈街仔路雨落袂停〉
+
         又是孤身的烏暗暝
         人去樓空 心事茫茫
         街仔路雨落袂停
@@ -96,13 +98,61 @@ songs:
 
         街仔路雨落袂停
         你敢佇遐 思慕的人
+      en: |
+        〈At a rainy night (Would you walk me home?)〉
 
+        Another lonely night
+        Empty house, heart full of worries
+        The rain keeps failling on the street
+        Are you there? The one I miss
+
+        Again and again, we sing sad songs together
+        Haven't you heard the hope in my voice?
+        The past is like waves, we're drowning in the crest
+        I'm not willing to linger here
+        Will you come with me?
+
+        Another lonely night
+        Empty house, heart full of worries
+        The rain keeps failling on the street
+        Are you there? The one I miss
+
+        When the wind comes
+        The stars in the sky are blown to the ground
+        Blowing past the city lights, yet they can't fly
+        In the pouring rain
+        When the wind comes
+        The stars in the sky are blown to the ground
+        Blowing past the city lights, yet they can't fly
+
+        Driving past your alley in the pouring rain
+        Outside, people walking, water flowing
+        Like a dream, someone shouts at me
+        Hey hey
+        Listening to the rain, I think of you
+        Before the sun rises, where to go?
+        Even in the car, the rain pours in
+        My train keeps running
+
+        Not that I don't care; it's one, twice, thrice, you go back and forget to leave
+        Not that I don't miss you; it's one, twice, thrice, I'm waiting in the rain
+
+        Again and again, we sing sad songs together
+        Haven't you heard the hope in my voice?
+        The past is like waves, we're drowning in the crest
+        I'm not willing to linger here
+        Will you come with me?
+
+        The rain keeps failling on the street
+        Are you there? The one I miss
   - title: 591
     lyricist: 鄭宜農
     composer: 鄭宜農
     default_language: zh
     lyrics:
       zh: |
+        〈591〉
+
         想要一張 又軟又大又能做好夢的床
         轉過身去就能聞到你的枕頭香
         床的旁邊 是一片隨風搖曳著的白窗簾
@@ -142,7 +192,48 @@ songs:
         吃簡單一點 酒喝少一些
         再努力一點說不定運氣好一點
         再過個幾年 或許還能有個管理員
+      en: |
+        〈591〉
 
+        Want a bed soft and big, where good dreams can be had
+        Turn over and smell the scent from your pillow
+        Beside the bed, white curtains swaying in the breeze
+        Two cats on the windowsill judging the world
+        A dining table, two glasses of water
+        A short bookshelf, let me just pile things up
+        Before you've had enough
+
+        Won't you, won't you come
+        Join me in making this small wish come true
+        Though there might be too many stairs
+        Before we grow old, we'll just breathe a little harder
+        Eat a bit simpler, drink a little less
+        Try a bit harder, maybe our luck will get better
+        In a few more years, maybe we'll even have a doorman
+
+        On winter evenings, the shower might be a little cold
+        You warm a cup of milk, so when I come out, I can hold it in my hands
+        When summber comes, we could go to the coffee shop nearby
+        Wait for the sun to set and stroll together to the park
+        A long road, endless things to say
+        The cruel world becomes less frightening
+        Before sadness comes again
+
+        Won't you, won't you come
+        Join me in making this small wish come true
+        Though there might be too many stairs
+        Before we grow old, we'll just breathe a little harder
+        Eat a bit simpler, drink a little less
+        Try a bit harder, maybe our luck will get better
+        In a few more years, maybe we'll walk a little slower
+
+        Won't you, won't you come
+        Join me in making this small wish come true
+        Though there might be too many stairs
+        Before we grow old, we'll just breathe a little harder
+        Eat a bit simpler, drink a little less
+        Try a bit harder, maybe our luck will get better
+        In a few more years, maybe we'll even have a doorman
   - title: 輕輕觸碰
     en_title: The touch.
     lyricist: 鄭宜農
@@ -435,6 +526,40 @@ songs:
         你依然捧著玉做的心
 
         從現在開始
+      en: |
+        〈Jade〉
+
+        To grind for survival, they temporarily lost their memories
+        Forgetting the voice of a loved one, just like the fields in my hometown
+        Your steadfast wish, submerged in the vast city
+        Yet you hold a heart made of jade
+
+        From now on, it's a lonely practice
+        A lonely place, where no one can escape
+        You hold a heart made of jade
+
+        The wheels keep turning, the horns keep ringing
+        The rain of longing, falls quietly at night
+        You hold a heart made of jade
+
+        With a touch of despair, yet still hope, that someone will see
+
+        To grind for survival, they temporarily lost their memories
+        Forgetting the voice of a loved one, just like the fields in my hometown
+        Your steadfast wish, submerged in the vast city
+        Yet you hold a heart made of jade
+        You still hold a heart made of jade
+
+        From now on, it's a lonely practice
+        From now on, it's a lonely practice
+
+        To grind for survival, they temporarily lost their memories
+        Forgetting the voice of a loved one, just like the fields in my hometown
+        Your steadfast wish, submerged in the vast city
+        Yet you hold a heart made of jade
+        You still hold a heart made of jade
+
+        From now on
 
   - title: 就算我放棄了世界
     en_title: Never let me go.
@@ -443,6 +568,8 @@ songs:
     default_language: zh
     lyrics:
       zh: |
+        〈就算我放棄了世界〉
+
         就算我放棄了世界 請你別放棄我
         就像我始終願意 靜靜聽你說
         聽你走路的聲音 聽你的靜默
@@ -467,7 +594,33 @@ songs:
         但我想牽你的手
         就這樣吧
         不需要 困惑
+      en: |
+        〈Never let me go〉
 
+        Even if I give up the world, please don't give up one me
+        Just like I'm always willing to quietly listen to you
+        Listen to your footsteps, Listen to your silence
+        Listen to you open a door, memories flowing through
+
+        Maybe sometimes cruel
+        Maybe sometimes naive
+        Maybe I never become an adult
+        But I want to hold your hand
+        But I want to walk with you
+
+        Even if I guard myself, please don't give up one me
+        Just like I'm always willing to feel your pain
+        Feel you slowly loosen your clenched fist
+        Feel at some point we're both naked
+
+        Maybe sometimes cruel
+        Maybe sometimes naive
+        Maybe I never become an adult
+        But I want to hold your hand
+        But I want to walk with you
+        But I want to hold your hand
+        That's it
+        No need to be confused
   - title: 千千萬萬
     en_title: Lightyears of solitude
     lyricist: 鄭宜農
